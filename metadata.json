@@ -1,0 +1,7 @@
+{
+  "name": "더잼콰이어 (The Jam Choir) 공식 홈페이지",
+  "description": "12년의 하모니, 당신의 목소리로 완성되는 더잼콰이어 신입 단원 모집 페이지입니다. 아름다운 화음과 따뜻한 공동체로 여러분을 초대합니다.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
